@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${FOAM_SRC}/finiteVolume/lnInclude",
+                "${FOAM_SRC}/OpenFOAM/lnInclude",
+                "${FOAM_SRC}/meshTools/lnInclude",
+                "${FOAM_SRC}/OSspecific/POSIX/lnInclude"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

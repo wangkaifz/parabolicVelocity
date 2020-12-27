@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "parabolicVelocityFvPatchVectorField.C": "cpp",
+        "fixedValueFvPatchFields.C": "cpp"
+    }
+}
